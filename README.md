@@ -1,5 +1,5 @@
-#PIAIC-ATM-Machine
-##Develop a TS program that show the working of an ATM machine such
+PIAIC-ATM-Machine
+Develop a TS program that show the working of an ATM machine such
 - User should login by entering his/her unique account number and a secret PIN
 - User can check account balance 
 - User can withdraw money 
